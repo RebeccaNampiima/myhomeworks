@@ -1,0 +1,112 @@
+body{
+    margin : 0;
+    height: 800px;
+    background-color: tomato;
+  
+
+}
+.photo{
+    height:60px;
+    margin-top: 20px;
+}
+
+h3{
+    margin-top: 30px;
+}
+
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+
+    
+  
+    
+}
+.location{
+    width : 300px;
+    height: 100px;
+    background-color: #620808;
+    color: #FFE9C1;
+    font-size: 24px;
+    display: flex;
+
+
+
+
+}
+
+.location_p{
+    color: #FFE9C1; 
+    display: none;
+    align-items: center;
+}
+
+.music{
+    width : 300px;
+    height: 100px;
+    background-color: #A53F3F;
+    color:  #F4CE74;
+    font-size: 24px;
+    display: flex;
+}
+.music_p{
+    color: #F4CE74;
+    display: none;
+    align-items: center;
+
+}
+
+.notes{
+    width : 300px;
+    height: 100px;
+    background-color: #F4CE74;
+    color: #620808;
+    font-size: 24px;
+    border-bottom-style: solid;
+    display: flex;
+    
+}
+.notes_p{
+    color: #620808;
+    display: none;
+    align-items: center;
+}
+
+.books{
+    width : 300px;
+    height: 100px;
+    background-color: #FFE9C1;
+    color :#620808;
+    font-size: 24px;
+    display: flex;
+}
+.books_p{
+    color :#620808;
+    display: none;
+    align-items: center;
+}
+
+.tendency{
+    width : 300px;
+    height: 100px;
+    background-color: #D5441C;
+    color :#FFE9C1;
+    font-size: 24px;
+    display: flex;
+
+}
+.tendency_p{
+   color :#FFE9C1; 
+   display: none;
+   align-items: center;
+}
+
+
+
+
+
